@@ -1,6 +1,6 @@
 # Hey, I'm Evan 👋
 
-I've been building websites since I was 8 years old and never stopped. I just graduated with a B.S. in Computer Science from the University of Memphis, and one of my projects (a GPA converter for international transcripts) was adopted by the University of Memphis Admissions team and is still in active use today.
+I've been building websites since I was 8 years old and never stopped. I just graduated with a B.S. in Computer Science from the University of Memphis, and one of my projects (a GPA converter for international transcripts) was adopted by the UofM Admissions team and is still in active use today.
 
 ## 🛠️ What I work with
 
