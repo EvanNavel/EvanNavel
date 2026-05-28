@@ -12,7 +12,7 @@ I've been building websites since I was 8 years old and never stopped. I just gr
 ## 🚀 Projects
 
 ### [University of Memphis GPA Converter](https://www.naveevan.com/projects)
-A dynamic tool that standardizes international academic transcripts for admissions processing. Built with PHP, JavaScript, and JSON-based conversion logic — officially adopted by the UofM International Admissions team.
+A dynamic tool that standardizes international academic transcripts for admissions processing. Built with PHP, JavaScript, and JSON-based conversion logic. Officially adopted by the UofM International Admissions team.
 
 ### [Munch — Recipe Social Media Platform](https://github.com/EvanNavel/munch-project)
 A full-stack recipe-sharing platform where users can post, sort, and comment on recipes. Focused on community engagement and clean UX.
