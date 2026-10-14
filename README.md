@@ -23,7 +23,3 @@ A top-down ghost-cleanup game built in Godot by a team of three for Brackeys Gam
 
 ### [naveevan.com](https://www.naveevan.com)
 My personal portfolio site. Check it out for more projects, a blog, and ways to get in touch.
-
-##  Let's connect
-
-- [naveevan.com](https://www.naveevan.com)
